@@ -25,7 +25,7 @@ const Post = ({name, description , message , photoUrl}) => {
                 <InputOption Icon={ThumbUpIcon} title="Like" color="gray"/>
                 <InputOption Icon={ShareIcon} title="Share" color="gray"/>
                 <InputOption Icon={CommentIcon} title="Comment" color="gray"/>
-                <InputOption Icon={ShareIcon} title="Send" color="gray"/>
+                <InputOption Icon={SendIcon} title="Send" color="gray"/>
             </div>
 
             
